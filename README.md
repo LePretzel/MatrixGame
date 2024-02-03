@@ -1,3 +1,3 @@
 # InfiniteMatrix
 
-Developed with Unreal Engine 5
+Project for CS 415 at UIUC
